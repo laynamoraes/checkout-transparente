@@ -6,7 +6,7 @@ Trata-se de um checkout transparente que utiliza a API da Appmax como gateway de
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
   <img alt="Imagem 01 de resultado final" src="./assets/view1.png" width="300px">
   <img alt="Imagem 01 de resultado final" src="./assets/view2.png" width="300px">
 </div>
